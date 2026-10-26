@@ -1,0 +1,58 @@
+{
+  "name": "@elephantclock/eid-connect",
+  "version": "1.0.0",
+  "description": "Emirates ID integration for web apps: typed client and React hook for the EID Connect reader bridge.",
+  "type": "module",
+  "main": "./src/index.js",
+  "types": "./src/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./src/index.d.ts",
+      "default": "./src/index.js"
+    },
+    "./react": {
+      "types": "./src/react.d.ts",
+      "default": "./src/react.js"
+    }
+  },
+  "files": [
+    "src",
+    "LICENSE",
+    "COMMERCIAL.md"
+  ],
+  "sideEffects": false,
+  "scripts": {
+    "test": "node --test"
+  },
+  "peerDependencies": {
+    "react": ">=17"
+  },
+  "peerDependenciesMeta": {
+    "react": {
+      "optional": true
+    }
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "emirates-id",
+    "emirates id integration",
+    "emirates id reader",
+    "uae",
+    "eid",
+    "kyc",
+    "react",
+    "sse"
+  ],
+  "author": "ElephantClock Technology <info@elephantclock.tech> (https://www.elephantclock.ae)",
+  "license": "PolyForm-Noncommercial-1.0.0",
+  "homepage": "https://elephantclock.github.io/eid-connect/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elephantclock/eid-connect-js.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
