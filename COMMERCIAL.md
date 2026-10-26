@@ -18,7 +18,7 @@ Evaluating for your business? Ask for a **free trial licence** and a live demo.
 
 ## Get a commercial licence
 
-- **Email:** [info@elephantclock.tech](mailto:info@elephantclock.tech?subject=EID%20Connect%20commercial%20licence)
+- **Email:** [info@elephantclock.ae](mailto:info@elephantclock.ae?subject=EID%20Connect%20commercial%20licence)
 - **WhatsApp / phone:** [+971 50 702 2916](https://wa.me/971507022916)
 - **Website:** [elephantclock.ae/solutions/emirates-id-integration](https://www.elephantclock.ae/solutions/emirates-id-integration.html)
 

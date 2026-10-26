@@ -1,7 +1,7 @@
 # EID Connect JS: Emirates ID integration for web apps
 
 > **Building this for a business?** Commercial use needs a licence, which also gets you the EID Connect reader service, setup support and updates.
-> **[Get a commercial licence →](./COMMERCIAL.md)** · [info@elephantclock.tech](mailto:info@elephantclock.tech?subject=EID%20Connect) · [WhatsApp +971 50 702 2916](https://wa.me/971507022916)
+> **[Get a commercial licence →](./COMMERCIAL.md)** · [info@elephantclock.ae](mailto:info@elephantclock.ae?subject=EID%20Connect) · [WhatsApp +971 50 702 2916](https://wa.me/971507022916)
 
 Read a UAE Emirates ID card straight into your web app. A customer taps the card on a
 reader, and your form gets the name (English and Arabic), ID number, nationality, date of
@@ -95,7 +95,7 @@ shows a flow that stores nothing at all.
 
 EID Connect performs an **offline read** of the card chip, for capture, auto-fill and onboarding.
 It does not check the card against government records. Online validation (ICP / UAE PASS)
-is a separate, licensed service: [ask us](mailto:info@elephantclock.tech?subject=EID%20online%20validation).
+is a separate, licensed service: [ask us](mailto:info@elephantclock.ae?subject=EID%20online%20validation).
 
 ## Licence
 
